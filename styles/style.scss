@@ -1,8 +1,14 @@
-.header img{
-    object-position: center;
-    size: 10px;
+.header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 
-.marvel-hero-gambit{
-    object-position: 10px;
+#marvel-logo{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
+
+
