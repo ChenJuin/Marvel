@@ -1,14 +1,21 @@
-.header{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-}
-
 #marvel-logo{
-    width: 300px;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+.hero{
+    #black-panther{
+        width: 300px;
+    }
+
+    #gambit{
+        width: 284px;
+    }
+
+    #iron-man{
+        width: 300px;
+    }
+}
 
