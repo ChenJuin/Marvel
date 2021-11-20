@@ -22,27 +22,28 @@ body{
 
 .hero{
     margin-top:50px;
+    
+}
 
-    #black-panther{
-        width: 300px;
-        height: 445px;
-        margin-left: 100px;
-        margin-right:90px;
-    }
+#black-panther{
+    width: 300px;
+    height: 445px;
+    margin-left: 100px;
+    margin-right:90px;
+}
 
-    #gambit{
-        width: 300px;
-        height: 445px;
-        margin-left: 100px;
-        margin-right:90px;
-    }
+#gambit{
+    width: 300px;
+    height: 445px;
+    margin-left: 100px;
+    margin-right:90px;
+}
 
-    #iron-man{
-        width: 300px;
-        height: 445px;
-        margin-left: 100px;
-        margin-right:90px;
-    }
+#iron-man{
+    width: 300px;
+    height: 445px;
+    margin-left: 100px;
+    margin-right:90px;
 }
 
 .hero-pic{
@@ -58,4 +59,30 @@ body{
     color: white;
     font-size: 100px;
     text-align: justify;
+    margin-bottom: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.introduction{
+    color:white;
+    font-family:gadugi;
+}
+
+.publication{
+    color:white;
+    font-family:gadugi;
+}
+
+.word-with-background{
+    color:white;
+    font-size: 30px;
+    font-family: bahnschrift semibold;
+}
+
+.yellow-colour{
+    color: yellow;
+}
+
+.song{
+    color: white;
 }

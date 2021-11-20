@@ -22,21 +22,21 @@ body {
   margin-top: 50px;
 }
 
-.hero #black-panther {
+#black-panther {
   width: 300px;
   height: 445px;
   margin-left: 100px;
   margin-right: 90px;
 }
 
-.hero #gambit {
+#gambit {
   width: 300px;
   height: 445px;
   margin-left: 100px;
   margin-right: 90px;
 }
 
-.hero #iron-man {
+#iron-man {
   width: 300px;
   height: 445px;
   margin-left: 100px;
@@ -54,5 +54,31 @@ body {
   color: white;
   font-size: 100px;
   text-align: justify;
+  margin-bottom: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.introduction {
+  color: white;
+  font-family: gadugi;
+}
+
+.publication {
+  color: white;
+  font-family: gadugi;
+}
+
+.word-with-background {
+  color: white;
+  font-size: 30px;
+  font-family: bahnschrift semibold;
+}
+
+.yellow-colour {
+  color: yellow;
+}
+
+.song {
+  color: white;
 }
 /*# sourceMappingURL=style.css.map */
